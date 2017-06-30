@@ -3,9 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-
-.. include:: ../README.md
-
 Welcome to GoPiGo3's documentation!
 ===================================
 
@@ -15,6 +12,7 @@ Welcome to GoPiGo3's documentation!
    :numbered:
 
    install
+   modules
 
 Indices and tables
 ==================
